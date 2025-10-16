@@ -1,1 +1,1 @@
-![Бэу](\images\screenshot.png)
+![Бэу](images/screenshot.png)
